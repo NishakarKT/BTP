@@ -1,0 +1,1 @@
+export const LOGO_PNG = "/images/logo.png";
